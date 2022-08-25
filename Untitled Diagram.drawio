@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T06:48:56.700Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="SK-XnjzaII-WCiYN6LGt" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T07:04:01.509Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="m01WoYTESbmHEKsB6DUk" version="20.2.7" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
     <mxGraphModel dx="2449" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -243,6 +243,109 @@
         </mxCell>
         <mxCell id="eHwCj9Hu1qXZwQ10Q-U8-33" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" vertex="1" parent="1">
           <mxGeometry x="370" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;CORE SWITCH&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-37">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1200" y="929.41" width="300" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;PRINTER&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-38">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="790" y="343.82000000000005" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;SD WAN&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-39">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1670" y="404.4100000000002" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;INTRANET&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-40">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1870" y="334.4100000000002" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;INTERNET&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-41">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1860" y="641.7000000000004" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;SERVER&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-42">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1700" y="999.41" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;PC&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-43">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="420" y="380.0000000000002" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;HUB&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-44">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="275" y="120.00000000000023" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;SWITCH&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-45">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="585" y="559.4100000000002" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;SWITCH&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-46">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="565" y="999.4100000000002" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;SWITCH&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-47">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="575" y="99.41000000000008" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;HUB&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-49">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="280" y="570.0000000000001" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;HUB&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-50">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="290" y="1010.0000000000002" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;PC&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-51">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="60" y="139.4100000000003" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;PC&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-52">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="60" y="589.4100000000002" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;PC&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-54">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="80" y="1039.4100000000003" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;PC&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-55">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="420" y="1259.4100000000003" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;PC&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-57">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="410" y="830.0000000000002" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;PRINTER&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-58">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="790" y="800" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;PRINTER&lt;/font&gt;" placeholders="1" name="Variable" id="eHwCj9Hu1qXZwQ10Q-U8-59">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="790" y="1223.8200000000002" width="300" height="60.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="eHwCj9Hu1qXZwQ10Q-U8-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=24;" edge="1" parent="1" source="eHwCj9Hu1qXZwQ10Q-U8-38" target="eHwCj9Hu1qXZwQ10Q-U8-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
